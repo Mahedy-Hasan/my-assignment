@@ -1,0 +1,23 @@
+/* one rich person  */
+.one-rich{
+    background-color: rgba(94, 168, 238, 0.603);
+    border-radius: 5px;
+    text-align: left;
+    padding: 10px;
+}
+.one-rich img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 25%;
+    
+}
+.font-width{
+    font-weight: 900;
+}
+.bold{
+    font-weight: 600;
+}
+.button{
+    margin-left: 25%;
+}

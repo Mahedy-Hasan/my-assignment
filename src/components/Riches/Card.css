@@ -1,0 +1,24 @@
+/* total cart  */
+.list{
+    background-color:rgba(26, 250, 101, 0.719);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 100%;
+    margin-top: 20px;
+
+}
+/* main name list  */
+.main-list{
+
+    background-color:rgb(252, 95, 205) ;
+    padding: 20px;
+}
+/* caculation cart */
+.main-cart{
+    width: 100%;
+    background-color: rgb(149, 230, 230);
+    padding: 10px;
+    text-align: center;
+    
+}

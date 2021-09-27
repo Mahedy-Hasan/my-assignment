@@ -1,25 +1,27 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Riches from './components/Riches/Riches';
+
+// main app component 
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+   
+    <div className="App container">
+      <header className='header'>
+        <h1>Lets Make World Richest Team </h1>
+        <p>No matter how hard it is they will never going to give up on your dream!!</p>
+        <h1>Total Budget:1000 Billion.</h1>
       </header>
+      <div>
+        <Riches></Riches>
+      </div>
     </div>
+    
+    
   );
 }
+
 
 export default App;

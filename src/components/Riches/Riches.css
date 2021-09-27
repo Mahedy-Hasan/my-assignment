@@ -1,0 +1,19 @@
+/* all reaches */
+.rich{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    width: 80%;
+}
+.main{
+    display: flex;
+}
+  .cart{
+    
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 10px;
+    width: 20%;
+    height: 100px;
+}  
